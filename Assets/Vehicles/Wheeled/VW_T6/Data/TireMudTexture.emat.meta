@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{80C6FF6BC8ED5557}Assets/Vehicles/Wheeled/VW_T6/Data/TireMudTexture.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

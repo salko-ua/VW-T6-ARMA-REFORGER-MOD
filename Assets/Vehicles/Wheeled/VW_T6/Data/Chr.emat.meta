@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{5B1189C4A7F7D64D}Assets/Vehicles/Wheeled/VW_T6/Data/Chr.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

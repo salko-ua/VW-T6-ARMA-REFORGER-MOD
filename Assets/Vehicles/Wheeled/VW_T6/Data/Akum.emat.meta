@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{4F6F4FB6C329D147}Assets/Vehicles/Wheeled/VW_T6/Data/Akum.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{B5E09E4B150E592D}Assets/Vehicles/Wheeled/VW_T6/Data/Wood.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

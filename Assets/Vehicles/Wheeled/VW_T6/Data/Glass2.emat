@@ -1,0 +1,13 @@
+MatPBRBasic {
+ Sort translucent
+ ReceiveShadow 0
+ OccludeRain 0
+ OccludeWetness 0
+ AlphaMul 5
+ BlendMode ColorModulate
+ DielectricReflectance 0.02
+ BCRMap "{07C05962B7DC8616}Assets/Vehicles/Wheeled/VW_T6/Data/windows.edds"
+ OpacityMap "{07C05962B7DC8616}Assets/Vehicles/Wheeled/VW_T6/Data/windows.edds"
+ NormalPower 0.8
+ NMOMap "{07C05962B7DC8616}Assets/Vehicles/Wheeled/VW_T6/Data/windows.edds"
+}

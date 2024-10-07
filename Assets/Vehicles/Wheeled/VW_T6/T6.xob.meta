@@ -1,0 +1,418 @@
+MetaFileClass {
+ Name "{C0B2C40CA142D0F9}Assets/Vehicles/Wheeled/VW_T6/T6.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MergeMeshes 0
+   ExportSkinning 1
+   MaterialAssigns {
+    MaterialAssignClass "{628C7A39EDB0771A}" {
+     SourceMaterial "Reftexred"
+     AssignedMaterial "{792E074A6E42CB0B}Assets/Vehicles/Wheeled/VW_T6/Data/Reftexred.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB0777F}" {
+     SourceMaterial "Color"
+     AssignedMaterial "{D91F4ADD8C18A5E9}Assets/Vehicles/Wheeled/VW_T6/Data/Color.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB0777A}" {
+     SourceMaterial "T6Engine"
+     AssignedMaterial "{7EC25D64793C6F81}Assets/Vehicles/Wheeled/VW_T6/Data/T6Engine.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB07776}" {
+     SourceMaterial "AlckRoof"
+     AssignedMaterial "{7D658D7F381F7880}Assets/Vehicles/Wheeled/VW_T6/Data/AlckRoof.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB07774}" {
+     SourceMaterial "Black"
+     AssignedMaterial "{A5CD379726A63087}Assets/Vehicles/Wheeled/VW_T6/Data/Black.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB0774C}" {
+     SourceMaterial "Grill1"
+     AssignedMaterial "{B12AD932B50C6E78}Assets/Vehicles/Wheeled/VW_T6/Data/Grill1.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB07749}" {
+     SourceMaterial "Intex1"
+     AssignedMaterial "{90F80899C42A3703}Assets/Vehicles/Wheeled/VW_T6/Data/Intex1.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB07747}" {
+     SourceMaterial "Seatbelt"
+     AssignedMaterial "{8389366D59ED1661}Assets/Vehicles/Wheeled/VW_T6/Data/Seatbelt.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB07743}" {
+     SourceMaterial "VehicleLights128"
+     AssignedMaterial "{85D1F4FEF9219B19}Assets/Vehicles/Wheeled/VW_T6/Data/VehicleLights128.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB0775E}" {
+     SourceMaterial "Logo"
+     AssignedMaterial "{493288C5157FCB7B}Assets/Vehicles/Wheeled/VW_T6/Data/Logo.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB07752}" {
+     SourceMaterial "Black2"
+     AssignedMaterial "{936DB48C2FA4D0FA}Assets/Vehicles/Wheeled/VW_T6/Data/Black2.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB070AD}" {
+     SourceMaterial "Mat1"
+     AssignedMaterial "{34DA111B8FA8FB16}Assets/Vehicles/Wheeled/VW_T6/Data/Mat1.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB070A9}" {
+     SourceMaterial "Alka"
+     AssignedMaterial "{7F4C73C16B9C1BF5}Assets/Vehicles/Wheeled/VW_T6/Data/Alka.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB070A6}" {
+     SourceMaterial "ButtonsRul"
+     AssignedMaterial "{E7388931D2E999BF}Assets/Vehicles/Wheeled/VW_T6/Data/ButtonsRul.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB070BC}" {
+     SourceMaterial "ButtonsMain"
+     AssignedMaterial "{71C461A37E9C6AB2}Assets/Vehicles/Wheeled/VW_T6/Data/ButtonsMain.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB070B9}" {
+     SourceMaterial "Grille"
+     AssignedMaterial "{72A8D2DC5A623E62}Assets/Vehicles/Wheeled/VW_T6/Data/Grille.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB070B4}" {
+     SourceMaterial "Chr"
+     AssignedMaterial "{5B1189C4A7F7D64D}Assets/Vehicles/Wheeled/VW_T6/Data/Chr.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB070B1}" {
+     SourceMaterial "Chr2"
+     AssignedMaterial "{97DFE0C0192D996E}Assets/Vehicles/Wheeled/VW_T6/Data/Chr2.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB0708D}" {
+     SourceMaterial "Glass2"
+     AssignedMaterial "{902A1E048F998FCA}Assets/Vehicles/Wheeled/VW_T6/Data/Glass2.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB0708A}" {
+     SourceMaterial "shader_brake"
+     AssignedMaterial "{09330CC301D7756F}Assets/Vehicles/Wheeled/VW_T6/Data/shader_brake.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB0709D}" {
+     SourceMaterial "Carpet"
+     AssignedMaterial "{EDDBBCF0B18B9394}Assets/Vehicles/Wheeled/VW_T6/Data/Carpet.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB0709A}" {
+     SourceMaterial "Wood"
+     AssignedMaterial "{B5E09E4B150E592D}Assets/Vehicles/Wheeled/VW_T6/Data/Wood.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB07096}" {
+     SourceMaterial "Butt6"
+     AssignedMaterial "{01B2171FC638D2A4}Assets/Vehicles/Wheeled/VW_T6/Data/Butt6.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB07093}" {
+     SourceMaterial "TextReflect2"
+     AssignedMaterial "{B7CAB50B930C4D1E}Assets/Vehicles/Wheeled/VW_T6/Data/TextReflect2.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB07090}" {
+     SourceMaterial "BlackLeather"
+     AssignedMaterial "{2EBF2D9891FAAE70}Assets/Vehicles/Wheeled/VW_T6/Data/BlackLeather.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB070EB}" {
+     SourceMaterial "ButtDoor"
+     AssignedMaterial "{BDA72E7C96176AEF}Assets/Vehicles/Wheeled/VW_T6/Data/ButtDoor.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB070E8}" {
+     SourceMaterial "Redchr"
+     AssignedMaterial "{9ED9806C880B330C}Assets/Vehicles/Wheeled/VW_T6/Data/Redchr.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB070E6}" {
+     SourceMaterial "Light1"
+     AssignedMaterial "{CA52AD500ED5D2D8}Assets/Vehicles/Wheeled/VW_T6/Data/Light1.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB070E3}" {
+     SourceMaterial "Farazad"
+     AssignedMaterial "{D0C918483BBEB20A}Assets/Vehicles/Wheeled/VW_T6/Data/Farazad.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB070FF}" {
+     SourceMaterial "EngIn1"
+     AssignedMaterial "{954025D191954AEC}Assets/Vehicles/Wheeled/VW_T6/Data/EngIn1.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB070FD}" {
+     SourceMaterial "Akum"
+     AssignedMaterial "{4F6F4FB6C329D147}Assets/Vehicles/Wheeled/VW_T6/Data/Akum.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB070F8}" {
+     SourceMaterial "EngineUnder"
+     AssignedMaterial "{05C1AE8AFB6FE905}Assets/Vehicles/Wheeled/VW_T6/Data/EngineUnder.emat"
+    }
+    MaterialAssignClass "{628C7A39EDB070F6}" {
+     SourceMaterial "UnderCar"
+     AssignedMaterial "{47B74BFAC6EC668A}Assets/Vehicles/Wheeled/VW_T6/Data/UnderCar.emat"
+    }
+   }
+   MeshParams {
+    MeshParam BACK_BUMPER {
+    }
+    MeshParam BODY {
+    }
+    MeshParam BR_DOOR {
+    }
+    MeshParam Body_Full {
+    }
+    MeshParam Buttons {
+    }
+    MeshParam FRONT_LIGHT {
+    }
+    MeshParam FRONT_LIGHT_GLASS {
+    }
+    MeshParam FUEL_ARROW {
+    }
+    MeshParam Foundation_Back {
+    }
+    MeshParam Foundation_Back2 {
+    }
+    MeshParam Front_Bumper {
+    }
+    MeshParam Front_Window {
+    }
+    MeshParam HOOD {
+    }
+    MeshParam INTERIER0 {
+    }
+    MeshParam INTERIER1 {
+    }
+    MeshParam KPP {
+    }
+    MeshParam LF_DOOR {
+    }
+    MeshParam MR_DOOR {
+    }
+    MeshParam Middle_Window {
+    }
+    MeshParam POWER_ARROW {
+    }
+    MeshParam Panel_Glass {
+    }
+    MeshParam REAR_FAR {
+    }
+    MeshParam RF_DOOR {
+    }
+    MeshParam RM_GLASS_FAR {
+    }
+    MeshParam RR_DOOR {
+    }
+    MeshParam RUL {
+    }
+    MeshParam Retopo_Middle_Window {
+    }
+    MeshParam SEAT01 {
+    }
+    MeshParam SEAT02 {
+    }
+    MeshParam SEAT03 {
+    }
+    MeshParam SPEED_ARROW {
+    }
+    MeshParam T6ENGINE {
+    }
+    MeshParam TEMP_ARROW {
+    }
+    MeshParam Turn_Left_Light {
+    }
+    MeshParam Turn_Right_Light {
+    }
+    MeshParam Undercar {
+    }
+   }
+   MergeTriMeshes 0
+   GeometryParams {
+    GeometryParam UBX_Battery {
+     LayerPreset "FireGeo"
+     SurfaceProperties {
+      "{5D38201F93B9DE65}Common/Materials/Game/VehicleParts/vehicle_battery.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UBX_Engine {
+     LayerPreset "FireGeo"
+     SurfaceProperties {
+      "{0B9EB7B9C8DCC6A5}Common/Materials/Game/VehicleParts/engine.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UCX_Fuel_Tank {
+     LayerPreset "FireGeo"
+     SurfaceProperties {
+      "{2E934203697527B6}Common/Materials/Game/VehicleParts/fuel_tank.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UCL_MT_wheel_L01 {
+     LayerPreset "MineTrigger"
+     SurfaceProperties {
+      "{8F1BCCA995D7FA4B}Common/Materials/Game/rubber_tire.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UCL_MT_wheel_L02 {
+     LayerPreset "MineTrigger"
+     SurfaceProperties {
+      "{8F1BCCA995D7FA4B}Common/Materials/Game/rubber_tire.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UCL_MT_wheel_R01 {
+     LayerPreset "MineTrigger"
+     SurfaceProperties {
+      "{8F1BCCA995D7FA4B}Common/Materials/Game/rubber_tire.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UCL_MT_wheel_R02 {
+     LayerPreset "MineTrigger"
+     SurfaceProperties {
+      "{8F1BCCA995D7FA4B}Common/Materials/Game/rubber_tire.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_FG_Back_Bumper {
+     LayerPreset "FireGeo"
+     SurfaceProperties {
+      "{C17486F3DA1510F6}Common/Materials/Game/Plastic/plastic_3mm.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_FG_Back_Left_Door {
+     LayerPreset "FireGeo"
+     SurfaceProperties {
+      "{EDB153DC99889624}Common/Materials/Game/Metal/metal_3mm.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_FG_Back_Right_Door {
+     LayerPreset "FireGeo"
+     SurfaceProperties {
+      "{EDB153DC99889624}Common/Materials/Game/Metal/metal_3mm.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_FG_Body {
+     LayerPreset "FireGeo"
+     SurfaceProperties {
+      "{EDB153DC99889624}Common/Materials/Game/Metal/metal_3mm.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_FG_Front_Bumper {
+     LayerPreset "FireGeo"
+     SurfaceProperties {
+      "{C17486F3DA1510F6}Common/Materials/Game/Plastic/plastic_3mm.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_FG_Front_Left_Door {
+     LayerPreset "FireGeo"
+     SurfaceProperties {
+      "{EDB153DC99889624}Common/Materials/Game/Metal/metal_3mm.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_FG_Front_Right_Door {
+     LayerPreset "FireGeo"
+     SurfaceProperties {
+      "{EDB153DC99889624}Common/Materials/Game/Metal/metal_3mm.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_FG_Hood {
+     LayerPreset "FireGeo"
+     SurfaceProperties {
+      "{EDB153DC99889624}Common/Materials/Game/Metal/metal_3mm.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_FG_Middle_Left_Door {
+     LayerPreset "FireGeo"
+     SurfaceProperties {
+      "{EDB153DC99889624}Common/Materials/Game/Metal/metal_3mm.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_FG_Middle_Right_Door {
+     LayerPreset "FireGeo"
+     SurfaceProperties {
+      "{EDB153DC99889624}Common/Materials/Game/Metal/metal_3mm.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_FG_Torpeda {
+     LayerPreset "FireGeo"
+     SurfaceProperties {
+      "{5EAA7FB0A83F90CF}Common/Materials/Game/plastic.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_MainCol_01 {
+     LayerPreset "Vehicle"
+     SurfaceProperties {
+      "{CE9253778DD8FBDE}Common/Materials/Game/metal.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_SEAT01 {
+     LayerPreset "FireGeo"
+     SurfaceProperties {
+      "{5EAA7FB0A83F90CF}Common/Materials/Game/plastic.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_SEAT02 {
+     LayerPreset "FireGeo"
+     SurfaceProperties {
+      "{5EAA7FB0A83F90CF}Common/Materials/Game/plastic.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+    GeometryParam UTM_SEAT03 {
+     LayerPreset "FireGeo"
+     SurfaceProperties {
+      "{5EAA7FB0A83F90CF}Common/Materials/Game/plastic.gamemat"
+     }
+     Mass 0
+     Margin 0
+    }
+   }
+   Common TXOCommonClass "{628C7A39EE34005E}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{628C7A39EE3402FD}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{628C7A39EE340224}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{628C7A39EE34021D}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{628C7A39EE340277}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{628C7A39EE3403AE}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

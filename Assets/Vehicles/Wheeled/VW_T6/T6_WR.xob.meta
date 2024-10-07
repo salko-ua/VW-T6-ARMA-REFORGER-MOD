@@ -1,0 +1,39 @@
+MetaFileClass {
+ Name "{9F15FB4366420942}Assets/Vehicles/Wheeled/VW_T6/T6_WR.xob"
+ Configurations {
+  FBXResourceClass PC {
+   MaterialAssigns {
+    MaterialAssignClass "{628AD6CA8D259A0D}" {
+     SourceMaterial "TireMudTexture"
+     AssignedMaterial "{80C6FF6BC8ED5557}Assets/Vehicles/Wheeled/VW_T6/Data/TireMudTexture.emat"
+    }
+   }
+   MeshParams {
+    MeshParam FR_MUDTIRE {
+    }
+   }
+   Common TXOCommonClass "{628AD6CA8E87C91D}" : "{0877E7C4BB2B2C9A}Configs/System/ResourceTypes/PC/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_ONE : PC {
+   Common TXOCommonClass "{628AD6CA8E87CA02}" : "{9D5B6207F7628CE2}Configs/System/ResourceTypes/XBOX_ONE/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass XBOX_SERIES : PC {
+   Common TXOCommonClass "{628AD6CA8E87CBC5}" : "{DD9F02115C764647}Configs/System/ResourceTypes/XBOX_SERIES/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS4 : PC {
+   Common TXOCommonClass "{628AD6CA8E87CB0B}" : "{53EC476BC921D99A}Configs/System/ResourceTypes/PS4/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass PS5 : PC {
+   Common TXOCommonClass "{628AD6CA8E87CB7B}" : "{F62AA8E7B8EA9D26}configs/ResourceTypes/PS5/MeshObjectCommon.conf" {
+   }
+  }
+  FBXResourceClass HEADLESS : PC {
+   Common TXOCommonClass "{628AD6CA8E87D4A9}" : "{3A5B3356978039E8}Configs/System/ResourceTypes/HEADLESS/MeshObjectCommon.conf" {
+   }
+  }
+ }
+}

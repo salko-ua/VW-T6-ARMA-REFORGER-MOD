@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{954025D191954AEC}Assets/Vehicles/Wheeled/VW_T6/Data/EngIn1.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

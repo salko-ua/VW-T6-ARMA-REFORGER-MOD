@@ -1,0 +1,18 @@
+Vehicle SampleCar_01_white1 : "{6E4BB926C9A7B982}Prefabs/Vehicles/Wheeled/VW_T6/SampleCar_01_white.et" {
+ components {
+  VehicleWheeledSimulation "{731B26FCA2F19855}" {
+   Simulation Wheeled "{4D8B26DEA5F25978}" {
+    Gearbox Gearbox Gearbox {
+    }
+    Axles {
+     Axle "{4D8B26DF8CF2F3D8}" {
+     }
+    }
+   }
+  }
+ }
+ coords 1324.129 39 2267.262
+}
+Vehicle M1025_armed_base1 : "{B120CDDBEF8DB007}Prefabs/Vehicles/Wheeled/M998/M1025_armed_base.et" {
+ coords 1322.361 39 2274.609
+}

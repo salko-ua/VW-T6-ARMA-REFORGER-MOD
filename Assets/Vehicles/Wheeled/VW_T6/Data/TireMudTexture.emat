@@ -1,0 +1,13 @@
+MatPBRBasic {
+ Color 0.246 0.246 0.246 1
+ EmissiveLV 0.927
+ SpecularMul 0.02
+ AlphaMul 0.811
+ BlendMode None
+ RoughnessScale 0.96
+ MetalnessScale 1.01
+ AOScale 0.629
+ DielectricReflectance 0.044
+ GlobalAOPower 0.887
+ BCRMap "{925F41A08FFD0319}Assets/Vehicles/Wheeled/VW_T6/Data/tiretest.edds"
+}

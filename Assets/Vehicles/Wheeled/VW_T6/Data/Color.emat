@@ -1,0 +1,4 @@
+MatPBRBasic {
+ Color 0.143 0.283 0.011 1
+ BCRMap "{BFA4E438738034E4}Assets/Vehicles/Wheeled/VW_T6/Data/color.edds"
+}

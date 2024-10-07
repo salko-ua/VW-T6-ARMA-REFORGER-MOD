@@ -1,0 +1,28 @@
+$animExportProfile {
+ $tracks {
+   "Scene_Root"             ""                       "TRA"
+   "driver_idle"            "Scene_Root"             "RA"
+   "driver_getin"           "Scene_Root"             "RA"
+   "codriver_idle"          "Scene_Root"             "RA"
+   "codriver_getin"         "Scene_Root"             "RA"
+   "v_starter_switch"       "Scene_Root"             "RA"
+   "v_light_RR"             "Scene_Root"             "RA"
+   "v_light_RL"             "Scene_Root"             "RA"
+   "v_light_FR"             "Scene_Root"             "RA"
+   "v_light_FL"             "Scene_Root"             "RA"
+   "v_fuel_cap"             "Scene_Root"             "RA"
+   "ROptic_LOD0"            "Scene_Root"             "RA"
+   "RM_GLASS_FAR_LOD0"      "ROptic_LOD0"            "RA"
+   "REAR_FAR_LOD0"          "ROptic_LOD0"            "RA"
+   "Hood__LOD0"             "Scene_Root"             "RA"
+   "Front_Bumper__LOD0"     "Scene_Root"             "RA"
+   "Front_Bumper_LOD0"      "Front_Bumper__LOD0"     "RA"
+   "UTM_FG_Front_Bumper"    "Front_Bumper__LOD0"     "RA"
+   "FOptic__LOD0"           "Scene_Root"             "RA"
+   "FRONT_LIGHT_LOD0"       "FOptic__LOD0"           "RA"
+   "FRONT_LIGHT_GLASS_LOD0" "FOptic__LOD0"           "RA"
+   "Turn_Right_Light_LOD0"  "FOptic__LOD0"           "RA"
+   "Turn_Left_Light_LOD0"   "FOptic__LOD0"           "RA"
+  
+ }
+}

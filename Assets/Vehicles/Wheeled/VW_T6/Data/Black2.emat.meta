@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{936DB48C2FA4D0FA}Assets/Vehicles/Wheeled/VW_T6/Data/Black2.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

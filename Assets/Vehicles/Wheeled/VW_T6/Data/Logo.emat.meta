@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{493288C5157FCB7B}Assets/Vehicles/Wheeled/VW_T6/Data/Logo.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}

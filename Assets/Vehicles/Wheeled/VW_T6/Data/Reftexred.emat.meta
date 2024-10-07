@@ -1,0 +1,17 @@
+MetaFileClass {
+ Name "{792E074A6E42CB0B}Assets/Vehicles/Wheeled/VW_T6/Data/Reftexred.emat"
+ Configurations {
+  EMATResourceClass PC {
+  }
+  EMATResourceClass XBOX_ONE : PC {
+  }
+  EMATResourceClass XBOX_SERIES : PC {
+  }
+  EMATResourceClass PS4 : PC {
+  }
+  EMATResourceClass PS5 : PC {
+  }
+  EMATResourceClass HEADLESS : PC {
+  }
+ }
+}
